@@ -1,6 +1,6 @@
 # Enable-Multi-Factor-Authentication-MFA-on-AWS-Root-Account-User
 ### Secure your AWS Management Console with Multi-Factor Authentication (MFA). This repository provides clear instructions and scripts for enabling MFA on the Root Account User, enhancing access security and compliance within your AWS environment.
-<img src= "https://github.com/glory-violet/Enable-Multi-Factor-Authentication-MFA-on-Root-Account-User/assets/137056419/fa610d8e-abdf-4e18-9cc9-80c631735dea" width="820" height="295">
+<img src= "https://github.com/glory-violet/Enable-Multi-Factor-Authentication-MFA-on-Root-Account-User/assets/137056419/fa610d8e-abdf-4e18-9cc9-80c631735dea" width="800" height="250">
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Scenario - "WHAT" Challenges the Need for Multi Factor Authentication (MFA) on the Root Account user?
